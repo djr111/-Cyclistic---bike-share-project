@@ -153,14 +153,17 @@ all_trips_v2 %>%
 #----------- Visualization of the data -------------------------------------
 
 # visualize the number of rides by rider type
-all_trips_v2 %>% 
-  mutate(weekday = wday(started_at, label = TRUE)) %>% 
-  group_by(member_casual, weekday) %>% 
-  summarise(number_of_rides = n()
-            ,average_duration = mean(ride_length)) %>% 
-  arrange(member_casual, weekday)  %>% 
+all_trips_v2 %>%
+  mutate(weekday = wday(started_at, label = TRUE)) %>%
+  group_by(member_casual, weekday) %>%
+  summarise(number_of_rides = n(),
+            average_duration = mean(ride_length)) %>%
+  arrange(member_casual, weekday) %>%
   ggplot(aes(x = weekday, y = number_of_rides, fill = member_casual)) +
-  geom_col(position = "dodge")
+  geom_col(position = "dodge") +
+  scale_y_continuous(labels = scales::comma) +  # Format y-axis labels with commas
+  labs(x = "Weekday", y = "Number of Rides") +  # Set x and y axis labels
+  ggtitle("Number of Rides by Weekday and Member Type")  # Set plot title
 
 # create a visualization for average duration
 all_trips_v2 %>% 
