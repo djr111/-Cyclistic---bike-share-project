@@ -55,3 +55,22 @@ In summary, the business task is to analyze the differences in bike usage patter
 For this case study I will use datasets 2019_Q1 and 2020_Q1 (files available to download in this repository) from public data of LLC "Bikeshare" - [link to all datasets](https://divvy-tripdata.s3.amazonaws.com/index.html).
 The data has been made available by Motivate International Inc. under this[license](https://divvybikes.com/data-license-agreement).
 
+Before starting to analyze data, I took a look on data csv files:
+datasets in these files contains 350,000+ and 450,000+ observations. This is quite big dataset and best approach would be using SQL or R/Python.
+As R programming language was part of the course, I decided to complete analysis and perform visualizations in Rstudio.
+
+Attached file in repository - cyclistic_bike_share.R
+Includes steps taken and documentation of the analysis
+This allows to review process, code executed and replicate same process using Rscript.
+
+The core points of analysis in R include:
+
+- Collecting data (R already comes with default set of packages, important to remember to provide working directory path to located data files for further actions.)
+- Data wrangling and combining data into a single file ("tidyverse" package for data wrangling and "dplyr" package for conflict managmeent.)
+- Cleaning up data and adding data to prepare for analysis (multiple R functions for data cleaning including: mutate, summary, head, colnames, etc.)
+- Conducting descriptive analysis (multiple R functions for data analysis including: aggregate, summary, mix, max, median, mean, ordered, etc.)
+- Data visualisation ("ggplot2" package allows to visualize data directly in Rstudio and extract image as .PNG or .PDF file formats for further use.)
+- Summary file export for further use in Tableau ( It is great to be able to present work done in other tools: Excel, PowerBi, Tableau. Created file further was used to make a viz in Tableau.)
+
+
+
