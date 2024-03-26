@@ -72,5 +72,14 @@ The core points of analysis in R include:
 - Data visualisation ("ggplot2" package allows to visualize data directly in Rstudio and extract image as .PNG or .PDF file formats for further use.)
 - Summary file export for further use in Tableau ( It is great to be able to present work done in other tools: Excel, PowerBi, Tableau. Created file further was used to make a viz in Tableau.)
 
+Summary visuals created in R:
+
+Total amount of rides weekly by rider type:
+
+![total_rides_each_day_by_rider_type](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/68b4e85d-dfcb-4f05-a163-9a7bfc88aafc)
+
+Average ride duration by rider type:
+
+![average_ride_duration_by_rider_type](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/91374e8b-1c7d-4f3c-b498-1872a1921397)
 
 
