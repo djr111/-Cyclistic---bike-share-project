@@ -53,7 +53,7 @@ Cyclistic Executive Team: Responsible for approving the recommended marketing pr
 In summary, the business task is to analyze the differences in bike usage patterns between annual members and casual riders and use these insights to design a new marketing strategy aimed at converting casual riders into annual members, with the ultimate goal of maximizing annual memberships for Cyclistic.
 
 For this case study I will use datasets 2019_Q1 and 2020_Q1 (files archives available to download in this repository ) from public data of LLC "Bikeshare" - [link to all datasets](https://divvy-tripdata.s3.amazonaws.com/index.html).
-The data has been made available by Motivate International Inc. under this[license](https://divvybikes.com/data-license-agreement).
+The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).
 
 Before starting to analyze data, I took a look on data csv files:
 datasets in these files contains 350,000+ and 450,000+ observations. This is quite big dataset and best approach would be using SQL or R/Python.
@@ -83,4 +83,6 @@ Average ride duration by rider type:
 
 ![average_ride_duration_by_rider_type](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/91374e8b-1c7d-4f3c-b498-1872a1921397)
 
+Average ride duration by rider type also available on Tableau public:
 
+(https://public.tableau.com/app/profile/raimonds.buls/viz/Averageridelengthofcasualsvsmembers/Sheet1#1)
