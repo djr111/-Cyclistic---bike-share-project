@@ -52,7 +52,7 @@ Cyclistic Marketing Analytics Team: Responsible for collecting, analyzing, and r
 Cyclistic Executive Team: Responsible for approving the recommended marketing program based on compelling data insights and professional data visualizations.
 In summary, the business task is to analyze the differences in bike usage patterns between annual members and casual riders and use these insights to design a new marketing strategy aimed at converting casual riders into annual members, with the ultimate goal of maximizing annual memberships for Cyclistic.
 
-For this case study I will use datasets 2019_Q1 and 2020_Q1 (files available to download in this repository) from public data of LLC "Bikeshare" - [link to all datasets](https://divvy-tripdata.s3.amazonaws.com/index.html).
+For this case study I will use datasets 2019_Q1 and 2020_Q1 (files archives available to download in this repository ) from public data of LLC "Bikeshare" - [link to all datasets](https://divvy-tripdata.s3.amazonaws.com/index.html).
 The data has been made available by Motivate International Inc. under this[license](https://divvybikes.com/data-license-agreement).
 
 Before starting to analyze data, I took a look on data csv files:
@@ -74,9 +74,10 @@ The core points of analysis in R include:
 
 Summary visuals created in R:
 
-Total amount of rides weekly by rider type:
+Total amount of rides by rider type:
 
-![total_rides_each_day_by_rider_type](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/68b4e85d-dfcb-4f05-a163-9a7bfc88aafc)
+![number_of_rides_by_weekday_and_member_type](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/d504bc8f-a484-43aa-a0cc-c5690d4421ef)
+
 
 Average ride duration by rider type:
 
