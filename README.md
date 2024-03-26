@@ -83,6 +83,5 @@ Average ride duration by rider type:
 
 ![average_ride_duration_by_rider_type](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/91374e8b-1c7d-4f3c-b498-1872a1921397)
 
-Average ride duration by rider type also available on Tableau public:
+Average ride duration by rider type also available on Tableau public: [link](https://public.tableau.com/app/profile/raimonds.buls/viz/Averageridelengthofcasualsvsmembers/Sheet1#1.)
 
-[link](https://public.tableau.com/app/profile/raimonds.buls/viz/Averageridelengthofcasualsvsmembers/Sheet1#1.)
