@@ -40,6 +40,9 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 The business task in this case is to understand how annual members and casual riders use Cyclistic bikes differently. This understanding will help Cyclistic design a new marketing strategy aimed at converting casual riders into annual members. 
 The goal is to maximize the number of annual memberships, as it has been identified that annual members are much more profitable for Cyclistic compared to casual riders.
 
+![image](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/ab7ce891-7e48-4ffd-9919-3b9035f6dd68)
+
+
 To achieve this task, the marketing analytics team needs to analyze the Cyclistic historical bike trip data to identify trends and differences in usage patterns between annual members and casual riders. The insights gained from this analysis will be used to inform the design of the new marketing strategy.
 
 Key stakeholders involved in this task include:
