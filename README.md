@@ -85,4 +85,4 @@ Average ride duration by rider type:
 
 Average ride duration by rider type also available on Tableau public:
 
-(https://public.tableau.com/app/profile/raimonds.buls/viz/Averageridelengthofcasualsvsmembers/Sheet1#1)
+[link](https://public.tableau.com/app/profile/raimonds.buls/viz/Averageridelengthofcasualsvsmembers/Sheet1#1.)
