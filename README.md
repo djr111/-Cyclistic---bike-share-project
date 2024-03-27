@@ -85,3 +85,10 @@ Average ride duration by rider type:
 
 Average ride duration by rider type also available on Tableau public: [link](https://public.tableau.com/app/profile/raimonds.buls/viz/Averageridelengthofcasualsvsmembers/Sheet1#1.)
 
+Key findings:
+
+As a data analyst, upon examining the Cyclistic bike trip data, it becomes evident that annual members exhibit a substantially higher frequency of bike usage compared to casual riders. Specifically, the data reveals that annual members utilize Cyclistic bikes with remarkable frequency, significantly surpassing the usage rates observed among casual riders. This trend underscores the distinct usage patterns between these two customer segments.
+
+Furthermore, while annual members demonstrate a propensity for more frequent bike trips, their trip durations tend to be notably shorter compared to casual riders. This finding suggests that although annual members utilize Cyclistic bikes more often, their individual trips are characterized by shorter durations. Conversely, casual riders exhibit a contrasting behavior, as they engage in bike rides for significantly longer periods of time.
+
+This analysis sheds light on the differing behaviors and preferences of Cyclistic's customer segments. The data suggests that while annual members prioritize frequent and shorter bike trips, casual riders are inclined towards fewer but longer-duration rides. Understanding these nuanced usage patterns is crucial for informing targeted marketing strategies aimed at maximizing annual memberships and optimizing the overall customer experience within the Cyclistic bike-share program.
