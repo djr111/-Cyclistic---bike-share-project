@@ -1,10 +1,11 @@
 # "Cyclistic"_bikeshare_project
-Data analytics case study for "Cyclistic" - bike share company.
-(Images taken from istockphoto website, [license](https://www.istockphoto.com/legal/license-agreement?utm_medium=organic&utm_source=google&utm_campaign=iptcurl)
+## Data analytics case study for "Cyclistic" - bike share company.
+
+(Images taken from istockphoto website, [license](https://www.istockphoto.com/legal/license-agreement?utm_medium=organic&utm_source=google&utm_campaign=iptcurl))
 
 ![image](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/70578ac4-d15f-454f-b735-6f77e3df991b)
 
-Introduction to Scenario:
+## Introduction to Scenario:
 
 I am junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago.
 The director of marketing believes the company’s future success
