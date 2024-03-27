@@ -1,5 +1,6 @@
 # "Cyclistic"_bikeshare_project
 Data analytics case study for "Cyclistic" - bike share company.
+(Images taken from istockphoto website, [license](https://www.istockphoto.com/legal/license-agreement?utm_medium=organic&utm_source=google&utm_campaign=iptcurl)
 
 ![image](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/70578ac4-d15f-454f-b735-6f77e3df991b)
 
@@ -85,6 +86,8 @@ Average ride duration by rider type:
 
 Average ride duration by rider type also available on Tableau public: [link](https://public.tableau.com/app/profile/raimonds.buls/viz/Averageridelengthofcasualsvsmembers/Sheet1#1.)
 
+
+
 Key findings:
 
 As a data analyst, upon examining the Cyclistic bike trip data, it becomes evident that annual members exhibit a substantially higher frequency of bike usage compared to casual riders. Specifically, the data reveals that annual members utilize Cyclistic bikes with remarkable frequency, significantly surpassing the usage rates observed among casual riders. This trend underscores the distinct usage patterns between these two customer segments.
@@ -92,3 +95,14 @@ As a data analyst, upon examining the Cyclistic bike trip data, it becomes evide
 Furthermore, while annual members demonstrate a propensity for more frequent bike trips, their trip durations tend to be notably shorter compared to casual riders. This finding suggests that although annual members utilize Cyclistic bikes more often, their individual trips are characterized by shorter durations. Conversely, casual riders exhibit a contrasting behavior, as they engage in bike rides for significantly longer periods of time.
 
 This analysis sheds light on the differing behaviors and preferences of Cyclistic's customer segments. The data suggests that while annual members prioritize frequent and shorter bike trips, casual riders are inclined towards fewer but longer-duration rides. Understanding these nuanced usage patterns is crucial for informing targeted marketing strategies aimed at maximizing annual memberships and optimizing the overall customer experience within the Cyclistic bike-share program.
+
+
+
+![image](https://github.com/djr111/-Cyclistic---bike-share-project/assets/58305266/77d5f620-c442-4289-9704-3c4e56f42ad8)
+
+(Reminder of business task: The goal is to maximize the number of annual memberships, as it has been identified that annual members are much more profitable for Cyclistic compared to casual riders.)
+
+Recommendations based on analysis for marketing department:
+
+
+
